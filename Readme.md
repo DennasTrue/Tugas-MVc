@@ -9,7 +9,7 @@ Proffesion
 Controller yg ada pada package ini di desain  untuk menghandle request URL/Register
 @request mapping(value="/register")
 
-Disini kita menggunakan 2 cara yaiti view Registration dan process Registration untuk menggunakan GET dan POST request masing masing cara ini
+Disini kita menggunakan 2 cara yaitu view Registration dan process Registration untuk menggunakan GET dan POST request masing masing cara ini
 merupakan cara yang flexible karena kita bebas memilih nama dan parameter yang dinginkan.
 ## ViewRegistration() disini kita menggunakan userForm sebagai model
 ###### User userForm = new User();
