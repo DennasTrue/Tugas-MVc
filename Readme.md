@@ -23,5 +23,10 @@ spring akan otomatis binds hasil dari registratsi pada model dan dapat di print 
 ###### System.out.println("username: " + user.getUsername());
 Code di atas akan mengeprint data yang disimpan dalam proess registrasi 
 
+## Screenshot
+![Scan/Photo of Sketches](https://github.com/DennasTrue/Tugas-MVc/blob/master/Spring%20MVC%20Form%20Registration%20Test%20-%20Success%20Page.png)
+![Scan/Photo of Sketches](https://github.com/DennasTrue/Tugas-MVc/blob/master/Spring%20MVC%20Form%20Registration%20Test.png)
+
+
 
 
